@@ -1,0 +1,16 @@
+[package]
+name = "turret_config"
+edition = "2024"         # edition = "legacy" to use legacy (pre-2024) Move
+# license = ""           # e.g., "MIT", "GPL", "Apache 2.0"
+# authors = ["..."]      # e.g., ["Joe Smith (joesmith@noemail.com)", "John Snow (johnsnow@noemail.com)"]
+
+#published-at = "0xf8e03cfb923822048fe33e50f6fdbba8d59275490f479dc0ab1035a23ccf73f8"
+
+[environments]
+testnet_stillness = "4c78adac"
+
+[dependencies]
+world = { local = "../../../../world-contracts/contracts/world" }
+
+
+
