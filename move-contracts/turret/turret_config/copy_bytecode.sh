@@ -3,14 +3,14 @@
 # Script: copy_bytecode.sh
 # Copies turret bytecode files to the dapps public directory
 
-# Get the current directory (should be turret_extension/move-contracts/turret/turret_config)
+# Get the current directory (should be Turret_Extension/move-contracts/turret/turret_config)
 CURRENT_DIR="$(pwd)"
 
 # Verify we're in the expected directory
-if [[ ! "$CURRENT_DIR" =~ "turret_extension/move-contracts/turret/turret_config" ]]; then
+if [[ ! "$CURRENT_DIR" =~ "Turret_Extension/move-contracts/turret/turret_config" ]]; then
     echo "Warning: Script might not be in the expected directory"
     echo "Current directory: $CURRENT_DIR"
-    echo "Expected: .../turret_extension/move-contracts/turret/turret_config"
+    echo "Expected: .../Turret_Extension/move-contracts/turret/turret_config"
     echo ""
 fi
 
