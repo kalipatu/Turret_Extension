@@ -50,8 +50,11 @@ DAPP contains 2 examples of the compiled move contract, which can be directly au
 
 You can adjust the logic in move-contracts/turret/turret_config/sources/turret_config.move
 Afterwards compile the project 
+
   sui move build --dump-bytecode-as-base64 > bytecode_dump.json
+
 and copy neccessary files to dapp with the script
+
   ./copy_bytecode.sh
 
 Than you can deploy the contract to the SUI and use it for authorisation to your turrets
