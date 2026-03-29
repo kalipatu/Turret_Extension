@@ -83,6 +83,7 @@ Code is based on builder-scaffold, written by not-proffesional as hobby. Apologi
 <img width="702" height="948" alt="grafik" src="https://github.com/user-attachments/assets/78081879-8e11-4908-8141-a58ece30ef88" />
 <img width="1034" height="1125" alt="grafik" src="https://github.com/user-attachments/assets/6a1ae2e5-a557-4e20-ae05-e6011fca075d" />
 <img width="1785" height="402" alt="grafik" src="https://github.com/user-attachments/assets/c260e06a-ac1b-4df2-a9c7-bcfc05d5b11e" />
+<img width="1554" height="1771" alt="grafik" src="https://github.com/user-attachments/assets/41962114-f19d-43cd-acfb-c9be12b42100" />
 
 
 
