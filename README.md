@@ -74,7 +74,20 @@ As way around a new package with new logic can be published and turret reauthori
 
 Code is based on builder-scaffold, written by not-proffesional as a hobby. Apologize for code, which might be not accoring to state of the art programming techniques and structures.
 
+Video on Youtube, where the turret was equipped with "exlude only owner" Extension is under link.
 
+https://youtu.be/zGLCR0hPbTs
+
+(turret Owner is Unknown, Base guest is Kalipatu, both are in same starting tribe. Kalipatu character didn't made any aggression)
+
+Interaction with DApp
+
+https://youtu.be/moRZAaYxWgs
+
+(interaction with EVE vault is not seen in video, as Chrome is recorded via Windows standart tool)
+
+
+Some Screenshots of DAPP and Sui Move Publishing in Linux Terminal below
 
 <img width="1038" height="1003" alt="grafik" src="https://github.com/user-attachments/assets/a84746ca-8710-4a61-95bd-d1150db8e969" />
 <img width="521" height="968" alt="grafik" src="https://github.com/user-attachments/assets/5f2c9e89-de85-47fc-9617-94fa20dd86c0" />
