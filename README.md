@@ -60,7 +60,20 @@ and copy neccessary files to dapp with the script
 ```bash
   ./copy_bytecode.sh
 ```
-Than you can deploy the contract to the SUI and use it for authorisation to your turrets
+Than you can deploy the contract to the SUI and use it for authorisation to your turrets.
+
+Extension uses character IDs (not the address!!) and tribe IDs for working logic.
+E.g. for in game character Kalipatu the character ID can be found under
+https://suiscan.xyz/testnet/object/0x1c4d91d8bb897f5bb2a18209426e37ec2c613d90b7db569c7c0855d519dc5217/fields
+under field Key. As well as Tribe ID under corresponding field.
+<img width="2028" height="1332" alt="grafik" src="https://github.com/user-attachments/assets/217a7081-0d2d-48fd-9bde-dfc7aa1b86ec" />
+
+
+Dapp also support the upgrade of the packages. However, turrets in game didn't react adequately on the extension upgrades. 
+As way around a new package with new logic can be published and turret reauthorized for new package.
+
+Code is based on builder-scaffold, written by not-proffesional as hobby. Apologize for code which might be not accoring to state of the art programming techniques and structures.
+
 
 
 <img width="1038" height="1003" alt="grafik" src="https://github.com/user-attachments/assets/a84746ca-8710-4a61-95bd-d1150db8e969" />
