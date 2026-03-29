@@ -72,7 +72,7 @@ under field Key. As well as Tribe ID under corresponding field.
 Dapp also support the upgrade of the packages. However, turrets in game didn't react adequately on the extension upgrades. 
 As way around a new package with new logic can be published and turret reauthorized for new package.
 
-Code is based on builder-scaffold, written by not-proffesional as hobby. Apologize for code which might be not accoring to state of the art programming techniques and structures.
+Code is based on builder-scaffold, written by not-proffesional as a hobby. Apologize for code, which might be not accoring to state of the art programming techniques and structures.
 
 
 
