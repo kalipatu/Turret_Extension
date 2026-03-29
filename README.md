@@ -1,10 +1,12 @@
 This is a project for creation and deployment of the Turret Extension to customise the default behaviour of the Smart Turrets of EVE Frontier.
+Starting point was builder-scaffold. https://github.com/evefrontier/builder-scaffold/tree/main
 
 Prerequisites for DAPP local exectution:
+
     Tested on Linux
     pnpm (to Install "npm i -g pnpm")
-On the computer in local network, where the DAPP will be executed
-    Chrome with Chrome extension Sui Wallet EVE Vault (install it following official docu https://docs.evefrontier.com/eve-vault/browser-extension)
+On the computer in local network, where the DAPP will be executed:
+Chrome with Chrome extension Sui Wallet EVE Vault (install it following official docu https://docs.evefrontier.com/eve-vault/browser-extension)
 
 For customising the SUI Move contract, install 
     Sui CLI (suiup is recommended for easy upgrades on sui version, https://docs.sui.io/guides/developer/getting-started/sui-install)
