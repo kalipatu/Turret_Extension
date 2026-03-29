@@ -1,4 +1,4 @@
-This is a project for creation and deployment of the Turret Extension to customise the default behaviour of the Smart Turrets of EVE Frontier.
+This is a project for creation and deployment of the Turret Extension to customize the default behavior of the Smart Turrets of EVE Frontier.
 Starting point was builder-scaffold. https://github.com/evefrontier/builder-scaffold/tree/main
 
 Prerequisites for DAPP local exectution:
